@@ -1,0 +1,9 @@
+
+# 只忽略dbg目录，不忽略dbg文件
+Debug/
+
+# 忽略*.sdf 文件
+*.sdf
+
+# 忽略*.suo 文件
+*.suo
